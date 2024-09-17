@@ -1,3 +1,3 @@
 # nst
-first repository
+first repository.
 By: Tanush
